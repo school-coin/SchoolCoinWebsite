@@ -13,7 +13,7 @@ title = "Welcome to SchoolCoin!"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "SchoolCoin ~<br> A clear path to the privacy of your digital money"
+  title = "SchoolCoin ~<br> The source to the privacy of your digital money"
   description = "Based on [Cryptonote](https://cryptonote.org/) technology"
 
 # Navigation section

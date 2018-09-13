@@ -7,13 +7,13 @@ title = "Welcome to SchoolCoin!"
 
 # Metadata
 [params]
-  author = "Thomas Groh"
-  description = "throw me to the wolves, I'll return leading the pack"
+  author = "School-Coin"
+  description = "SchoolCoin is a secure low-fee conduit to privately & anonymously send money anywhere you have internet"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "A clear source to the privacy of your digital money"
+  title = "SchoolCoin ~<br> A clear path to the privacy of your digital money"
   description = "Based on [Cryptonote](https://cryptonote.org/) technology"
 
 # Navigation section

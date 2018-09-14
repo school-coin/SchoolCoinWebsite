@@ -78,12 +78,12 @@ title = "Welcome to SchoolCoin!"
   [[params.services.item]]
     icon = "icon-eye"
     title = "Privacy Ready"
-    description = "Your privacy is secured when you use SchoolCoin. More information on the Cryptonote protocol can be found on the Cryptonote whitepaper."
+    description = "Your privacy is secured when it uses dual-key stealth address which require all four keys for complete functionality. More information on the Cryptonote protocol can be found on the Cryptonote whitepaper."
 
   [[params.services.item]]
     icon = "icon-rocket"
     title = "Light Speed"
-    description = "Using algorithms behind the CryptoNote technology also enabling protection against double spending, analysis resistance, egalitarian proof of work concept, and a difficulty target of 120 seconds per block allows for lite speed transactions."
+    description = "Using CryptoNote technology enables protection against double spending, analysis resistance, Prog-POW concept, and a difficulty target of 120 seconds per block allows for lite speed transactions."
 
   [[params.services.item]]
     icon = "icon-pencil"

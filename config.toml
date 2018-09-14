@@ -68,22 +68,22 @@ title = "Welcome to SchoolCoin!"
   video = true
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Our Services"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  description = "A digital currency or cash just like USD which can be exchanged between two entities, with the difference that cryptocurrency is made for the transactions on the Blockchain network."
 
   [[params.services.item]]
-    icon = "icon-present"
-    title = "Keep it simple"
-    description = "Don’t just focus on the technical details, the buzzwords and the industry jargon. Explain things simply and in detail so that people thoroughly can understand the logic and idea behind your project. Present your company in words, imagery and video. Speak in words that even non-technical people outside the crypto industry can understand."
+    icon = "icon-ban"
+    title = "Anonymous Transactions"
+    description = "SchoolCoin is unlike any other cryptocurrency as it allows anonymity by using Ring Signatures to hide wallet balances and transactions, making any transaction you make effectively unlinkable."
 
   [[params.services.item]]
     icon = "icon-eye"
-    title = "Retina Ready"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "Privacy Ready"
+    description = "Your privacy is secured when you use SchoolCoin. More information on the Cryptonote protocol can be found on the Cryptonote whitepaper."
 
   [[params.services.item]]
     icon = "icon-paper-plane"
     title = "Light Speed"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    description = "SchoolCoin (SCC) is an anonymous cryptocurrency on the CryptoNote algorithm, released on August 30, 2018. This algorithm allows for anonymity and lite speed transactions."
 
   [[params.services.item]]
     icon = "icon-pencil"

@@ -91,8 +91,8 @@ title = "Welcome to SchoolCoin!"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]
-    icon = "icon-paper-plane"
-    title = "Load Fast"
+    icon = "icon-money"
+    title = "Load fast"
     description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
   [[params.services.item]]

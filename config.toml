@@ -83,7 +83,7 @@ title = "Welcome to SchoolCoin!"
   [[params.services.item]]
     icon = "icon-rocket"
     title = "Light Speed"
-    description = "SchoolCoin (SCC) is an anonymous cryptocurrency on the CryptoNote algorithm, released on August 30, 2018. This algorithm allows for anonymity and lite speed transactions."
+    description = "Using algorithms behind the CryptoNote technology also enabling protection against double spending, analysis resistance, and egalitarian proof of work concept. This algorithm allows for anonymity and lite speed transactions."
 
   [[params.services.item]]
     icon = "icon-pencil"

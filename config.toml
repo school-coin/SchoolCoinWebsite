@@ -68,7 +68,7 @@ title = "Welcome to SchoolCoin!"
   video = true
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Our Services"
-  description = "A digital currency or cash just like USD which can be exchanged between two entities, with the difference that cryptocurrency is made for the transactions on the Blockchain network."
+  description = "A digital currency or cash just like USD which can be exchanged between two entities, with the difference that SchoolCoin cryptocurrency is made for privately, secure, anonymous transactions on the Blockchain network."
 
   [[params.services.item]]
     icon = "icon-ban"

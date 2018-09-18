@@ -106,42 +106,42 @@ title = "Welcome to SchoolCoin!"
 
   [[params.work.item]]
     title = "Quarter One"
-    subtitle = "2018"
+    subtitle = "2019"
     img = "images/img_1.jpg"
 
   [[params.work.item]]
     title = "Quarter Two"
-    subtitle = "2018"
+    subtitle = "2019"
     img = "images/img_2.jpg"
 
   [[params.work.item]]
     title = "Quarter Three"
-    subtitle = "2018"
+    subtitle = "2019"
     img = "images/img_3.jpg"
 
   [[params.work.item]]
     title = "Quarter four"
-    subtitle = "2018"
+    subtitle = "2019"
     img = "images/img_2.jpg"
 
   [[params.work.item]]
     title = "Quarter One"
-    subtitle = "2019"
+    subtitle = "2020"
     img = "images/img_3.jpg"
 
   [[params.work.item]]
     title = "Quarter Two"
-    subtitle = "2019"
+    subtitle = "2020"
     img = "images/img_2.jpg"
 
   [[params.work.item]]
     title = "Quarter Three"
-    subtitle = "2019"
+    subtitle = "2020"
     img = "images/img_3.jpg"
 
   [[params.work.item]]
     title = "Quarter Four"
-    subtitle = "2019"
+    subtitle = "2020"
     img = "images/img_4.jpg"
 
 # Team section

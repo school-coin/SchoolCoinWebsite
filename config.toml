@@ -105,43 +105,43 @@ title = "Welcome to SchoolCoin!"
   enable = true
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Quarter One"
+    subtitle = "2018"
     img = "images/img_1.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Quarter Two"
+    subtitle = "2018"
     img = "images/img_2.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Quarter Three"
+    subtitle = "2018"
     img = "images/img_3.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Quarter four"
+    subtitle = "2018"
     img = "images/img_2.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Quarter One"
+    subtitle = "2019"
     img = "images/img_3.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Quarter Two"
+    subtitle = "2019"
     img = "images/img_2.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Quarter Three"
+    subtitle = "2019"
     img = "images/img_3.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Quarter Four"
+    subtitle = "2019"
     img = "images/img_4.jpg"
 
 # Team section
